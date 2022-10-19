@@ -1,0 +1,80 @@
+h1{
+    color: blue;
+}
+h2{
+    color: rgb(52, 52, 228);
+}
+.contenedor
+{
+
+width: 900px;
+height: 600px;
+
+border: 2px solid red;
+
+}
+.cabecera
+{
+    background-color: rgb(92, 179, 92);
+width: 900px;
+height: 100px;
+border: 2px solid red;
+}
+.imagen{
+    float: right;
+    border: 2px solid rgb(219, 131, 16);
+    width: 100px;
+height: 100px;
+    
+}
+.titulo{
+    float: left;
+
+}
+.izquierda
+{
+    background-color: rgb(241, 80, 31);
+width: 250px;
+height: 500px;
+border: 2px solid rgb(255, 123, 0);
+float: left;
+}
+.derecha
+{
+    background-color: rgb(241, 80, 31);
+width: 258px;
+height: 500px;
+border: 2px solid rgb(255, 123, 0);
+float: right;
+}
+
+.centro
+{
+    background-color: rgb(231, 211, 121);
+width: 380px;
+height: 500px;
+border: 2px solid rgb(235, 178, 124);
+float: left;
+}
+.copirigth
+{
+    background-color: rgb(238, 123, 167);
+width: 900px;
+height: 100px;
+border: 2px solid rgb(235, 178, 124);
+
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
